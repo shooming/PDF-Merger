@@ -2,7 +2,6 @@ import os
 from PyPDF2 import PdfMerger, PdfReader, PdfWriter
 
 pdf_setting_options = 0
-main_option = ['[1] pdf 통합하기\n', '[2] pdf 분할하기\n', '[3] 종료\n']
 
 while(True):
 
